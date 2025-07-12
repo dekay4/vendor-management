@@ -37,3 +37,4 @@ A lightweight vendor management system built using PHP, MySQL, Bootstrap, and jQ
 ---
 ## Workflow
 
+![alt text](https://github.com/dekay4/vendor-management/blob/main/vendor-workflow.png)
