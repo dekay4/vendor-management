@@ -91,3 +91,26 @@ These export buttons allow you to download the full vendor report with threat sc
 
 ![alt text](https://github.com/dekay4/vendor-management/blob/main/dashboard.png)
 
+## 🧑‍💼 Vendor Management
+
+- Navigate to the **"Vendor"** menu from the sidebar or top navigation.
+- On this page, you can:
+
+  - ➕ **Add a New Vendor**
+    - Fill in the form with:
+      - Name, Email, Mobile Number
+      - Working Hours per Day (Mon–Sun)
+      - Active Months (multi-select: Jan–Dec)
+      - Status (Active/Inactive)
+
+  - 📝 **Edit Existing Vendors**
+    - Click the **Edit** button next to a vendor row
+    - Update any of their details
+
+  - 🗑️ **Delete Vendors**
+    - Click the **Delete** button and confirm via SweetAlert2 popup
+
+- All form fields are validated using **jQuery Validate**
+- Success and error messages are displayed using **SweetAlert2**
+![alt text](https://github.com/dekay4/vendor-management/blob/main/vendor.png)
+
