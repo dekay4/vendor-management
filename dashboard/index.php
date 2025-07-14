@@ -319,11 +319,7 @@ if ($_COOKIE['api_key'] == '') {
 
     <script src="../vendor/peity/jquery.peity.min.js"></script>
 
-    <!--<script src="../vendor/apexchart/apexchart.js"></script>-->
-
-    <!--<script src="../js/dashboard/dashboard-1.js"></script>-->
     <script src="../js/highCharts.js"></script>
-    <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxCPf2gzWwkVQhMzFWGUeJIZ_a4ClTqn8"></script>-->
 
 
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
